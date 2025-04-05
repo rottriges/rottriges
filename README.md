@@ -6,7 +6,6 @@ I am
 - autoditact with lots of fun in :computer: programming and web development         
 - Linux enthusiast :penguin:
 - server and network administrator
-- mountainbiker :mountain_bicyclist:
 - :house_with_garden: from Germany
 
 :e-mail: you can reach me per email
