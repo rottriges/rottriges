@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I am
-- a :two::one:st century digital boy
 - technical :gear: :wrench: educated career changer :twisted_rightwards_arrows:
 - autoditact with lots of fun in :computer: programming and web development         
 - Linux enthusiast :penguin:
